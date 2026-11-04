@@ -1,5 +1,6 @@
 from app.streak import calculate_streak
 
+
 def test_all_done_full_streak():
     assert calculate_streak([True, True, True]) == 3
 
