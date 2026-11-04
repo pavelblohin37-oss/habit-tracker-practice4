@@ -8,3 +8,5 @@
 - `tests/` — юнит-тесты (pytest)
 - `web/` — статический фронтенд, сайт: https://habit-tracker-practice4.pages.dev
 - `.github/workflows/ci-cd.yml` — CI/CD: job `test` → job `deploy` на Cloudflare Pages
+
+Автор: Pavel ([pavelblohin37-oss](https://github.com/pavelblohin37-oss))
